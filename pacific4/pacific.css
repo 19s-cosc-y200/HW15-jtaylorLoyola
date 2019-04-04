@@ -1,0 +1,100 @@
+/*<!-- Project Name: Pacific Resort -->
+<!-- Author: Joshua Taylor -->
+<!-- Date Last Modified: 4.4.19 -->*/
+
+body
+{
+  background-color: #3399CC;
+  background-image: linear-gradient(#3399CC,#C2E0F0,#3399CC);
+  color: #666666;
+  font: Arial;
+  padding-left: 2em;
+  padding-right: 2em;
+  display: block;
+}
+
+header
+{
+  background-color: #000033;
+  color: #FFFFFF;
+  font: Georgia;
+}
+
+h1
+{
+  background-image: url("sunset.jpg");
+  display: block;
+  background-repeat: no-repeat;
+  padding-left: 2em;
+  height:72px;
+  line-height: 200%;
+  margin-bottom: 0;
+}
+
+nav
+{
+  padding-left: 2em;
+  padding-right: .5em;
+  padding-top: .5em;
+  padding-bottom: .5em;
+  font-weight: bold;
+  background-color: #90C7E3;
+  text-decoration: none;
+}
+
+h2
+{
+  color: #3399CC;
+  font: Georgia;
+}
+
+dt
+{
+  color: #000033;
+  font-weight: bold;
+}
+
+.resort
+{
+  color: #000033;
+  font-size: 1.2em;
+}
+
+footer
+{
+  font-size: .70em;
+  font-style: italic;
+  text-align: center;
+  padding: 1em;
+}
+
+.wrapper
+{
+  background-color: #FFFFFF;
+  min-width: 700px;
+  max-width: 1024px;
+  box-shadow: shadow;
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h3
+{
+  color: #000033;
+}
+
+.homehero
+{
+  height: 300px;
+  background-image: url("coast.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.trailhero
+{
+  height: 300px;
+  background-image: 100% 100%;
+  background-repeat: no-repeat;
+}
